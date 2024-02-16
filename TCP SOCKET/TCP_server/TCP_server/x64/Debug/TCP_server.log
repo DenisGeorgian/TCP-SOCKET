@@ -1,0 +1,5 @@
+﻿  TCP_server.cpp
+C:\Users\lenovo\Desktop\visual studio\TCP_server\TCP_server\TCP_server\TCP_server.cpp(29,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\visual studio\TCP_server\TCP_server\TCP_server\TCP_server.cpp(33,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\visual studio\TCP_server\TCP_server\TCP_server\TCP_server.cpp(23,9): warning C4101: 'iConnect': unreferenced local variable
+  TCP_server.vcxproj -> C:\Users\lenovo\Desktop\visual studio\TCP_server\TCP_server\x64\Debug\TCP_server.exe
